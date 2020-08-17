@@ -1,0 +1,12 @@
+#more {display: none;}
+/*.container-fluid {
+   margin: 0px;
+   width: 1000px;
+}*/
+.btn {
+   background-color: #350663;
+}
+.card-title  {
+   font-style:montserrat;
+  color: #350663;
+}
